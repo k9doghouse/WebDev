@@ -30,7 +30,7 @@ h4 {
   font-family: "Montserrat", sans-serif;
   font-size: 1.25rem;
   text-shadow: 0.0625rem 0.0625rem 0.1875rem #33998575;
-  position: relative;
+  position: static;
 }
 
 p {
@@ -103,6 +103,38 @@ hr {
 .skill-row01 {
   width: 50%;
   margin: auto;
+}
+
+.skill-row02 {
+  width: 50%;
+  margin: auto;
+}
+
+.try {
+  text-align: left;
+}
+
+.friend {
+  text-align: left;
+}
+
+.BeAFriend {
+  text-align: center;
+}
+
+.TIE {
+  text-align: center;
+}
+
+.skills01-img {
+  float: left;
+  margin-right: 1.25rem;
+}
+
+.skills02-img {
+  float: right;
+  margin-left: 1.0rem;
+  margin-bottom: 1.0rem
 }
 
 .k9 {
