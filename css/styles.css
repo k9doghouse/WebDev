@@ -34,8 +34,6 @@ h4 {
 }
 
 p {
-  margin-left: 8%;
-  margin-right: 8%;
   position: relative;
 }
 
@@ -87,6 +85,11 @@ hr {
   position: relative;
 }
 
+.blurb {
+  width: 60%;
+  margin: auto;
+}
+
 .bottom-cloud {
   margin-top: 2.25rem;
   right: -2rem;
@@ -101,12 +104,12 @@ hr {
 }
 
 .skill-row01 {
-  width: 50%;
+  width: 60%;
   margin: auto;
 }
 
 .skill-row02 {
-  width: 50%;
+  width: 60%;
   margin: auto;
 }
 
@@ -119,11 +122,16 @@ hr {
 }
 
 .BeAFriend {
-  text-align: center;
+  text-align: left;
+  margin-bottom: 0.0rem;
+  position: relative;
 }
 
 .TIE {
-  text-align: center;
+  text-align: left;
+  margin-left: 13.5rem;
+  margin-bottom: 0.0rem;
+  position: relative;
 }
 
 .skills01-img {
